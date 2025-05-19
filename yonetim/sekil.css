@@ -1,0 +1,31 @@
+@charset "utf-8";
+
+div
+{
+	position:100px;
+}
+.text
+{
+	width:100;
+	font-size:20px;
+	background-color:#DDF;
+}
+
+.girisbtn
+{
+	font-size:25px;
+	background-color:#000051;
+	color:#FFF;
+	
+	
+}
+.yazi
+{
+	font-size:10px;
+	color:#CCC;
+	
+}
+body
+{
+	background:#999;
+}

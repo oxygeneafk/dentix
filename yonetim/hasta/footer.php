@@ -1,0 +1,1 @@
+<p text-align="center">© 2024, Her Hakkı Saklıdır.</p>

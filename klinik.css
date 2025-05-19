@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+#klinikicerik
+{
+	text-align:center;
+	min-width: 1000px;
+
+	margin: auto;
+	width: 1000px;	
+	
+}
+#klinik
+{
+	color: #030;
+	min-width: 1350px;
+	left: 34px;
+	top: 3px;
+	
+}

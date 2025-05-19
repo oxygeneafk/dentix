@@ -1,0 +1,24 @@
+@charset "utf-8";
+
+#sayfasorulariniz
+{
+	
+	min-width: 1350px;
+	left: 34px;
+	top: 3px;
+	
+}
+#iceriksorulariniz
+{
+	
+	min-width: 1000px;
+	margin: auto;
+	width: 1000px;	
+	
+}
+.btn
+{
+	font-size: 18px;
+	font-weight: bold;
+	
+}

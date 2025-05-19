@@ -1,0 +1,59 @@
+@charset "utf-8";
+
+
+.txt
+{
+	height: 20px;
+	width: 200px;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.yazi
+{
+	
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.btn
+{
+	
+	font-size: 20px;
+	font-weight: bold;
+	color: #FFF;
+	height: 35px;
+	width: auto;
+	background-color:#111;
+	border-radius:8px;
+	
+}
+.rst
+{
+	border-radius: 10px;
+	font-size: 24px;
+	font-weight: bold;
+	color: #000;
+	height: auto;
+	width: 200px;
+	background-color:#CCC;
+}
+
+.cmb
+{
+	height: auto;
+	width: 200px;
+	font-size: 20px;
+	font-weight: bold;
+	border-radius: 10px;
+
+}
+
+.btn:hover
+{
+	border:solid 1px black;
+	color:#000;
+	background-color:#FFF;
+	
+	
+}
